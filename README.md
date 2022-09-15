@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @Sscottss81
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in beginning of programing 
+- 🌱 I’m currently learning on YouTube where I can
+- 💞️ I’m looking to collaborate on what's really going on
+
+- 📫 How to reach me sscottss81@gmail.com
 
 <!---
-Sscottss81/Sscottss81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->I'm knee deep in google so if you look I'm sure you will find me.sweet
+Sscottss81/Sscottss81 I need help with the how it really is kinda thing.struggling.🤕 
 
